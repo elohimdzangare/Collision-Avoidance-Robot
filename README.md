@@ -11,15 +11,14 @@ The HC-SR04 ultrasonic sensor continuously measures the distance to objects in f
 
 ## Components
 
-| Component | Quantity | Details |
-|---|---|---|
-| Microcontroller | 1 | Arduino Uno R3 |
-| Motor Driver | 1 | L298N |
-| Ultrasonic Sensor | 1 | HC-SR04 |
-| Chassis | 1 | 2WD Robot Chassis |
-| Power Supply | 1 | 12V Battery |
+| Component | Model | Quantity | Purpose |
+|---|---|---|---|
+| Microcontroller | Arduino Uno R3 | 1 | Processes sensor data and controls motor driver |
+| Motor Driver | L298N | 1 | Controls the speed and direction of the motors |
+| Ultrasonic Sensor | HC-SR04 | 1 | Detects obstacles and measures distance |
+| Chassis | 2WD Robot Chassis | 1 | Structural base and drive system |
+| Power Supply | 12V Battery | 1 | Powers the motors and electronics |
 
-*## Circuit Diagram*
 
 
 ## Scope and Limitations
