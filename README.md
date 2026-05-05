@@ -19,8 +19,8 @@ The HC-SR04 ultrasonic sensor continuously measures the distance to objects in f
 | Chassis | 1 | 2WD Robot Chassis |
 | Power Supply | 1 | 12V Battery |
 
-## Circuit Diagram
-*[Add schematic here]*
+*## Circuit Diagram*
+
 
 ## Scope and Limitations
 - Stop/go logic only — no steering around obstacles
