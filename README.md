@@ -56,5 +56,5 @@ The HC-SR04 ultrasonic sensor continuously measures the distance to objects in f
 - Arduino IDE
 - C++
 
-## Designer
+## Author
 Elohim Dzangare — 05.2026
