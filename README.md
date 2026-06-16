@@ -47,12 +47,6 @@ The HC-SR04 ultrasonic sensor continuously measures the distance to objects in f
 | Echo | Arduino D8 | Distance measurement input |
 | GND | Arduino GND | Common ground |
 
-Schematic
-<figure>
-  <img src="Schematic.png" width="400" alt="Collision Avoidance Robot Schematic">
-  <figcaption>Wiring Schematic</figcaption>
-</figure>
-
 ## Scope and Limitations
 - Stop/go logic only — no steering around obstacles
 - Detection range capped at 20cm
